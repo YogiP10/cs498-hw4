@@ -2,4 +2,4 @@
 
 ## Part 2.1 — Preprocessing output
 
-![processed_data output](preprocess_screenshot.png)
+![processed_data output](preprocess.png)
